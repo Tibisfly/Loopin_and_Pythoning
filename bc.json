@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://aebb22be-1097-41ca-a5a6-882e1e455490.ws-eu01.gitpod.io",
+    "address": "https://c8fe1ef8-dd35-4da6-b3a7-6374602ffa64.ws-eu01.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -167,7 +167,7 @@
         {
             "slug": "02.5-Finding_wally",
             "title": "02.5-Finding_wally",
-            "done": false,
+            "done": true,
             "path": "exercises/02.5-Finding_wally",
             "translations": [
                 "es",
