@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://c8fe1ef8-dd35-4da6-b3a7-6374602ffa64.ws-eu01.gitpod.io",
+    "address": "https://b0dcd815-8872-4212-9d26-04815cea386c.ws-eu01.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -255,7 +255,7 @@
         {
             "slug": "07-Do_while",
             "title": "07-Do_while",
-            "done": false,
+            "done": true,
             "path": "exercises/07-Do_while",
             "translations": [
                 "es",
@@ -266,7 +266,7 @@
         {
             "slug": "08-Delete_element",
             "title": "08-Delete_element",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Delete_element",
             "translations": [
                 "es",
@@ -277,7 +277,7 @@
         {
             "slug": "08.1-Merge_list",
             "title": "08.1-Merge_list",
-            "done": false,
+            "done": true,
             "path": "exercises/08.1-Merge_list",
             "translations": [
                 "es",
